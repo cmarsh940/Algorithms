@@ -1,5 +1,5 @@
 import math
-
+??
 def rearrange(bitString32):
 	if len(bitString32) != 32:
 		raise ValueError("Need length 32")
